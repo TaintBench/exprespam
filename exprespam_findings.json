@@ -51,7 +51,8 @@
         "threading": true
       },
       "ID": 1,
-      "description": "This malicious flow leaks the telephone number  to a remote server."
+      "description": "This malicious flow leaks the telephone number  to a remote server.",
+      "isNegative": false
     },
     {
       "source": {
@@ -146,7 +147,8 @@
         "threading": true
       },
       "ID": 2,
-      "description": "This malicious flow leaks contact data to a remote server."
+      "description": "This malicious flow leaks contact data to a remote server.",
+      "isNegative": false
     }
   ]
 }
